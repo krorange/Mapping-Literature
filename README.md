@@ -1,4 +1,3 @@
-# Mapping-Literature
-Mapping Ulysses with QGIS
+# Mapping Ulysses with QGIS
 
 Download "photo" - folder containing geotagged images
